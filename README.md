@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fate970730&show_icons=true&locale=hu&theme=tokyonight" alt="fate970730" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fate970730&show_icons=true&locale=hu&theme=tokyonight" alt="fate970730" /></p>
+
 
 
 ### 💌 Lépj velem kapcsolatba <a href="https://steamcommunity.com/id/fatefighters/" target="_blank">itt</a>.
