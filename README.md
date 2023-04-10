@@ -16,7 +16,7 @@
 ### ⭐ Saját Github állapotom:
 <div align="left">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=fate970730&show_icons=true&theme=dracula" alt="fate970730" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fate970730&layout=compact&theme=dracula" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=fate970730&show_icons=true&locale=hu&theme=dracula" alt="fate970730" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fate970730&layout=compact&locale=hu&theme=dracula" alt="languages" height="165">
   </p>
 </div>
 
