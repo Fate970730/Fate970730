@@ -5,7 +5,7 @@
   Szeretem a szabadidőmet videojátékokkal tölteni, és különféle technológiákat tanulni/tesztelni.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fate970730&color=FF69B4" alt="caue-alves" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fate970730&locale=hu&color=FF69B4" alt="caue-alves" /> </p>
 
 ### 🚀 A képességeim:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
