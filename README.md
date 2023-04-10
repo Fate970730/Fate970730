@@ -22,4 +22,4 @@
   </p>
 </div>
 
-### 💌 Lépj velem kapcsolatban <a href="https://steamcommunity.com/id/fatefighters/" target="_blank">itt</a>.
+### 💌 Lépj velem kapcsolatba <a href="https://steamcommunity.com/id/fatefighters/" target="_blank">itt</a>.
