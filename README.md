@@ -14,11 +14,11 @@
 <br>
 
 ### ⭐ Saját Github állapotom:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<div align="left">
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=fate970730&show_icons=true&theme=dracula" alt="languages" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fate970730&layout=compact&theme=dracula" alt="languages" height="165"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fate970730&&theme=tokyonight" alt="languages" /></p>
-  </p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
 
 ### 💌 Lépj velem kapcsolatba <a href="https://steamcommunity.com/id/fatefighters/" target="_blank">itt</a>.
