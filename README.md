@@ -17,7 +17,6 @@
 
 <div align="left">
   <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fate970730&show_icons=true&locale=en&layout=compact&theme=buefy" alt="fate970730" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fate970730&show_icons=true&locale=en&theme=buefy" alt="fate970730" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fate970730&&theme=buefy" alt="fate970730" /></p>
   </p>
